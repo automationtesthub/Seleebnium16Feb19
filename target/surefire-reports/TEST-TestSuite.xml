@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="9.031" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\RAJESH-PC"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_131\jre"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="RAJESH-PC"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="JOB_NAME" value="POMFramework"/>
+    <property name="COMPUTERNAME" value="RAJESH-PC"/>
+    <property name="MSJAVA_ENABLE_MONITORS" value="1"/>
+    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property name="ANDROID_HOME" value="E:\Selenium\MobileAutomation\Android\SDK"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="RAJESH"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+    <property name="=E:" value="E:\Selenium\Jenkins"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\RAJESH\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/POMFramework/6/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="BUILD_TAG" value="jenkins-POMFramework-6"/>
+    <property name="windows_tracing_flags" value="3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main E:\Selenium\Selenium_Software\apache-maven-3.5.2 C:\Users\RAJESH\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\RAJESH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Users\RAJESH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 63331"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="f6bfe4750521ce3d"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files (x86)\Java\jdk1.8.0_131/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Dell\DW WLAN Card;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Java\jdk1.8.0_131\bin;C:\Program Files (x86)\Java\jre8\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;E:\Selenium\Selenium_Software\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;E:\Selenium\MobileAutomation\Android\SDK\platform-tools;E:\Selenium\MobileAutomation\Android\SDK\tools;C:\Program Files\nodejs\;C:\Program Files (x86)\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin;C:\Users\RAJESH\AppData\Local\GitHubDesktop\bin;C:\Users\RAJESH\AppData\Roaming\npm"/>
+    <property name="java.io.tmpdir" value="C:\Users\RAJESH\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\RAJESH\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="_classload_hook" value="jvmhook"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/POMFramework/6/"/>
+    <property name="IBM_JAVA_OPTIONS" value="-Xbootclasspath/a:&quot;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="M2_HOME" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#6"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="LSERVRC" value="C:\Program Files (x86)\Common Files\Mercury Interactive\License Manager\lservrc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="f6bfe4750521ce3d"/>
+    <property name="JRE_HOME" value="C:\Program Files (x86)\Java\jre8"/>
+    <property name="MAVEN_HOME" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\RAJESH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\Micro Focus\Unified Functional Testing\"/>
+    <property name="HOMEPATH" value="\Users\RAJESH"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="6"/>
+    <property name="maven3.interceptor" value="C:\Users\RAJESH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Selenium\Selenium_Software\apache-maven-3.5.2/bin;C:\Program Files (x86)\Java\jdk1.8.0_131/bin;C:\Program Files (x86)\Java\jdk1.8.0_131/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Dell\DW WLAN Card;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Java\jdk1.8.0_131\bin;C:\Program Files (x86)\Java\jre8\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;E:\Selenium\Selenium_Software\apache-maven-3.5.2\bin;C:\Program Files\Git\cmd;E:\Selenium\MobileAutomation\Android\SDK\platform-tools;E:\Selenium\MobileAutomation\Android\SDK\tools;C:\Program Files\nodejs\;C:\Program Files (x86)\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin;C:\Users\RAJESH\AppData\Local\GitHubDesktop\bin;C:\Users\RAJESH\AppData\Roaming\npm;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="vtiger"/>
+    <property name="POM_ARTIFACTID" value="POMFramework"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/POMFramework/"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/POMFramework/6/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\RAJESH\.jenkins"/>
+    <property name="BUILD_ID" value="6"/>
+    <property name="TEMP" value="C:\Users\RAJESH\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_131\jre\bin"/>
+    <property name="M2" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2\bin"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="LEANFT_HOME" value="C:\Program Files (x86)\Micro Focus\Unified Functional Testing\"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="3a09"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\RAJESH\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2/bin"/>
+    <property name="SCITE_USERHOME" value="C:\Users\RAJESH\AppData\Local\AutoIt v3\SciTE"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files (x86)\Java\jdk1.8.0_131"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="USERPROFILE" value="C:\Users\RAJESH"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/POMFramework/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\RAJESH"/>
+    <property name="USERNAME" value="RAJESH"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\RAJESH\POMFramework"/>
+    <property name="maven.conf" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\RAJESH\AppData\Local\Temp"/>
+    <property name="_JAVA_OPTIONS" value="-Xrunjvmhook -Xbootclasspath/a:&quot;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.class.path" value="C:\Users\RAJESH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;E:\Selenium\Selenium_Software\apache-maven-3.5.2\boot\plexus-classworlds-2.5.2.jar;E:\Selenium\Selenium_Software\apache-maven-3.5.2/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="JAVA_TOOL_OPTIONS" value="-agentlib:jvmhook"/>
+    <property name="os.arch" value="x86"/>
+    <property name="WORKSPACE" value="C:\Users\RAJESH\.jenkins\workspace\POMFramework"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_131\jre\classes;C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"/>
+    <property name="PATH+JDK" value="C:\Program Files (x86)\Java\jdk1.8.0_131/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="E:\Selenium\Selenium_Software\apache-maven-3.5.2"/>
+    <property name="JOB_BASE_NAME" value="POMFramework"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="POMFramework"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+  </properties>
+  <testcase name="verifyLoginValid_TC04" classname="vtiger.tests.LoginTest" time="3.03"/>
+  <testcase name="CreateLeadTC005" classname="vtiger.tests.LeadsTest" time="6.001"/>
+</testsuite>
